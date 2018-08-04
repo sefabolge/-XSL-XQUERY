@@ -11,9 +11,9 @@ Copy the XSL file (name it boats select html.xsl) and modify the stylesheet such
 the result in HTML.
 A.3
 Modify your script such that it adds information about the average price and average length of boats:
-                <p> avg p r i c e : a l l b o a t s : 90000</ p>
-                <p> avg p r i c e : r e l e v a n t b o a t s : 70000</ p>
-                <p> avg l e n g t h : a l l b o a t s : 4 0.5 </ p>
+                <p> avg p r i c e : a l l b o a t s : 90000</p>
+                <p> avg p r i c e : r e l e v a n t b o a t s : 70000</p>
+                <p> avg l e n g t h : a l l b o a t s : 4 0.5 </p>
                 <p> avg l e n g t h : r e l e v a n t b o a t s : 36</p>
 Demonstrate the usage of XSL variables for solving this task.
 A.4
