@@ -1,4 +1,6 @@
 # -XSL-XQUERY
+This project involves writing some XSL transformations (part A) and XQuery expressions (part B).
+
 
 A XSL Transformation
 
